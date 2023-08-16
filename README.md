@@ -1,7 +1,7 @@
 
 ## task-2 Random joke generator. <br>
 
-![VN20230810_172934](https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/d3fe82a1-b284-4d49-910c-29cf5541cf66)
+![VN20230810_172934](https://github.com/amank0259/iNeuBytes-Internship/assets/94205023/9af7d3ed-a9c3-49e6-9136-15ab07604a37)
 
 ## Description
 
